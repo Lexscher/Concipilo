@@ -131,13 +131,13 @@ The functions:
 
 4. click(newScenario(evt){
    THIS WILL EITHER:
-   1) change the inner html of the <p> and <li> tags based on the scenario.
-   2) this will swap out the current div for another, which will have different content in the <p> and <li> tags.
+   1) change the inner html of the `<p>` and `<li>` tags based on the scenario.
+   2) this will swap out the current div for another, which will have different content in the `<p>` and `<li>` tags.
 
    + This will also be able to link us back to the first page from the win or lose window.
   })
 
-5. <button class="endGame" onClick="window.location.reload()"
+5. `<button class="endGame" onClick="window.location.reload()">`
 
 
 level 1 : choice 1, choice 2, choice 3
