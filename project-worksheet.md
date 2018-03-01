@@ -109,7 +109,7 @@ And the man in the restaurant dropped his glass! Everyone is going crazy! They c
   <li>Clean it up with your napkin?</li>
   <li>Grab a straw?</li>
   <li>Throw a Chair?</li>
-<ul>
+</ul>
 
 kinda formation. The lists are going to be taken in by the DOM, and that's how I'll add the event listeners. I think I'll use that bubbling method and have the event listener on the ul tag.
 
