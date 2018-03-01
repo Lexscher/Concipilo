@@ -101,7 +101,7 @@ Each scenario & set of choices will be in a div tag,
 -- I'm not sure If I want to just change the text content/innerHTML of that div, or have multiple divs per scenario and hide the ones that are not being read.--
 
 I'll have the scenario in a p tag, and the choices at the bottom of that div in a:
-
+```
 <p>
 And the man in the restaurant dropped his glass! Everyone is going crazy! They can't bare the sight of spilled milk! Do you...
 </p>
@@ -110,7 +110,7 @@ And the man in the restaurant dropped his glass! Everyone is going crazy! They c
   <li>Grab a straw?</li>
   <li>Throw a Chair?</li>
 </ul>
-
+```
 kinda formation. The lists are going to be taken in by the DOM, and that's how I'll add the event listeners. I think I'll use that bubbling method and have the event listener on the ul tag.
 
 The functions:
