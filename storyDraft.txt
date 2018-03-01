@@ -1,0 +1,123 @@
+Landing page {
+title:
+
+Hey there! Yes, you! Mind if I get a little more information about you?
+
+Are you brave? Do you want to go on an adventure?
+
+
+Yes) they'll get a "Good to hear! I like you, kid, you've got moxie!"
+Their background music will be calm throughout the game.
+
+No) "tsk tsk tsk... Disappointing to hear... But, I'm afraid you don't have a choice in the matter. Let's go!"
+Their background music will be creepy and haunting throughout the game.
+
+}
+
+
+
+level Zed:
+
+<p> You're sitting in the living room of your apartment,
+watching your favorite show. Your roommate, Sam is taking his evening nap as usual.
+Your program is cut off and there's an empty alert message on the television screen.
+You hear a lot of commotion outside. You look out the window, and the city is set ablaze!
+You notice that there's a strong looking group traveling together. They're moving pretty fast!
+
+What would you do?
+
+</p>
+<ul>
+  Choice 1. <li>Wake up your room mate! Maybe you can figure out what's going on together.</li>
+  Choice 2. <li>Run outside to join the group! They might have a better idea of what's going on.</li>
+</ul>
+
+   LEVEL ONE A:
+
+   <p>
+  You wake Sam up, and he's not too happy about this! You start to explain the situation, and he thinks
+  you're joking at first. He notices the urgency in your voice and starts to take you more seriously.
+  You both look out the window, and the sky is soiled with smoke. There are fires everywhere. You don't know wether the sound of the sirens make you feel comfort or anxiety. Sam thinks you both should pack a bag of essentials and hightail it out of there. Your car is parked three avenues away, while Sam's car is parked two blocks over. He want's to take his car
+
+  What do you do?
+   </p>
+
+  <ul>
+    1A. <li>Follow Sam's advice! Staying with Sam will make you feel safer. You'll be better off taking supplies with you.</li>
+    1B. <li>Leave Sam! Get to your car and drive. Why should you have to leave your car in the eye of all this mess?</li>
+    1C. <li>Grab Sam and force him to come with you outside! You don't feel safe staying in that building.</li>
+  </ul>
+
+        LEVEL 2 A:
+        <p> You pack a small bag of supplies. You've got some First Aid, snacks, water bottles, batteries and a flashlight. Sam packed supplies as well. You both are now ready to move.
+
+        What do you do?
+        </p>
+        <ul>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
+
+
+        LEVEL 2 B:
+        <p> You sprint to your car, only to witness the horror! Your beautiful car has been caught in a chain of explosions,
+
+        </p>
+        <ul>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
+
+        LEVEL TWO C:
+        <p> Okay. Sam's a little pissed! You explaining how uneasy you felt about staying in the building, and he calms down. Sam points and says he thinks you both should just get to his car. Sam's car is in the same direction as the sirens.
+        </p>
+        <ul>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
+
+   LEVEL ONE B:
+  <p>
+    You run downstairs as fast as you can. You made good time! The group is <i>just</i> out of sight! You just remembered that your car is three avenues away, but the group is moving in the opposite direction. You hear sirens in the distance.
+
+    What do you do?
+  </p>
+  <ul>
+    2D. <li>Run to the group! You don't want to go through this alone.</li>
+    2E. <li>Go to your car! You can catch up with them later when you're on wheels.</li>
+    2F. <li>Follow the sound of the sirens! The authorities must have answers. They can keep you safe.</li>
+  </ul>
+
+        LEVEL TWO D:
+        <p> You race towards the group, yelling for their attention. One of the groupies hears and tells the rest of them to stop. When you catch get closer to them, you notice that something is off. Their left arms have strange red markings, similar to a circuit going down the arm to their hand. They don't seem hostile, but your guard is up.
+
+        What do you do?
+        </p>
+        <ul>
+          <li>Usain Bolt outta there! These people are wa</li>
+          <li></li>
+          <li></li>
+        </ul>
+        LEVEL TWO E:
+        <p> You hightail it to your car! As you unlock the doors of your car, you realize that the car in front of yours is on fire. You quickly get in your seat and put the keys in the ignition. You were too late... The car in front of you explodes, and you were engulfed by sriracha...
+
+        Unfortunately, the odds were not in your favor...
+
+        Would you like to play again?
+        </p>
+        <ul>
+          <li>YES!</li>
+          <li>NO!</li>
+        </ul>
+        LEVEL TWO F:
+        <p> You run to the sound of the sirens, but on your way you see Sam's car. Two goons are trying to break into it!
+
+         What do you do?
+        </p>
+        <ul>
+          <li>Confront these ruffians! They shouldn't be doing this!</li>
+          <li>Move forward! The authorities can help subdue them.</li>
+        </ul>

@@ -18,6 +18,12 @@ var lit = document.body.querySelectorAll('li')
 // each of the three options. Since they're all looking at where
 // level is, all you need to do is make sure that your levels Are
 // kept on the same corresponding choice/level/ab from your story
+
+//** NEW COMMENT: This was false. I didn't take this into account.
+// When I click going down the b path, there's no way to change my
+// selector from path ABC to path DEF. I might be able to put these
+// into another swith statement, or an if else, but I dunno. I'll try
+// to make a path instead of doing the hard code.
 var level = 1
 var level1A = () => {
   pee.innerHTML = "Test Level One A";
@@ -31,6 +37,47 @@ var level1B = () => {
   lit[1].innerHTML = "B2";
   lit[2].innerHTML = "  ";
 }
+var  level2A = () => {
+  pee.innerHTML = "Test Level Two A";
+  lit[0].innerHTML = "2a 1";
+  lit[1].innerHTML = "2a 2";
+  lit[2].innerHTML = "2a 3";
+};
+
+var  level2B = () => {
+  pee.innerHTML = "Test Level Two B";
+  lit[0].innerHTML = "2b 1";
+  lit[1].innerHTML = "2b 2";
+  lit[2].innerHTML = "2b 3";
+};
+
+var  level2C = () => {
+  pee.innerHTML = "Test Level Two C";
+  lit[0].innerHTML = "2c 1";
+  lit[1].innerHTML = "2c 2";
+  lit[2].innerHTML = "2c 3";
+};
+
+var  level2D = () => {
+  pee.innerHTML = "Test Level Two D";
+  lit[0].innerHTML = "2d OKOK1";
+  lit[1].innerHTML = "2d 2";
+  lit[2].innerHTML = "2d 3";
+};
+
+var  level2E = () => {
+  pee.innerHTML = "Test Level Two E";
+  lit[0].innerHTML = "2e 1";
+  lit[1].innerHTML = "2e 2";
+  lit[2].innerHTML = "2e 3";
+};
+
+var  level2F = () => {
+  pee.innerHTML = "Test Level Two F";
+  lit[0].innerHTML = "2f 1";
+  lit[1].innerHTML = "2f 2";
+  lit[2].innerHTML = "2f 3";
+};
 
 
 lit[0].addEventListener('click', function(evt){
@@ -40,7 +87,8 @@ lit[0].addEventListener('click', function(evt){
        level++
        break;
     case 2:
-      // level2B()
+      level2A()
+      level++
       break;
   }
 });
@@ -51,6 +99,9 @@ lit[1].addEventListener('click', function(evt){
       level1B()
        level++
        break;
+    case 2:
+    level2B()
+    break;
   }
 });
 
@@ -61,10 +112,11 @@ lit[2].addEventListener('click', function(evt){
        level++
        break;
     case 2:
-      level2()
+      level2C()
       break;
   }
 });
+
 
 //mousover event listener to ul tags.
  // mouseover function
