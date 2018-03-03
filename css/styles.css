@@ -1,0 +1,104 @@
+body {
+  text-align: center;
+  background: url("https://pm1.narvii.com/6359/12ce7598bee2dd2fc93601ec03dbb7a3433ca4dc_hq.jpg");
+  background-size: cover;
+  margin: 0 auto;
+  font-family: "Bangers", cursive;
+  width: 100%;
+}
+
+header {
+  margin: 0 auto 10px;
+  background-image: url("https://media.giphy.com/media/tW7KdFagbp6Fi/giphy-downsized-large.gif");
+  background-size: cover;
+  position: relative;
+  display: block;
+  padding: 15px;
+  color: rgba(0, 225, 225, 1);
+}
+
+h1 {
+  padding: 25px 0;
+}
+
+footer {
+  background: url("https://media.giphy.com/media/tW7KdFagbp6Fi/giphy-downsized-large.gif");
+  background-size: cover;
+  opacity: 0.9;
+  height: 25;
+  margin: 0 auto;
+  padding: 48px 35px;
+  position: absolute;
+  bottom: 0;
+  display: block;
+  width: 94%;
+  border: 7px outset;
+  border-color: #ff5555;
+}
+
+.mid {
+  border-radius: 4px;
+  height: 200px;
+  margin: 40px 200px;
+  padding: 40px;
+  background-color: rgba(85, 5, 5, 0.4);
+  color: rgba(255, 255, 255, 1);
+  border-right: 42px double;
+  border-left: 42px double;
+  border-color: rgba(20, 0, 0, 1);
+  overflow: auto;
+}
+
+.columns {
+  display: inline-block;
+  float: left;
+  width: 33.33%;
+}
+
+a {
+  text-decoration: none;
+  font-family: "Creepster", cursive;
+  font-size: x-small;
+  color: rgba(226, 226, 0, 0.5);
+}
+
+p {
+  font-family: "Special Elite", cursive;
+  padding: 10px;
+  display: inline;
+}
+
+ul {
+  background-color: rgba(10, 24, 17, 1);
+  border: 5px double;
+  padding: 3px 5px;
+}
+
+li {
+  text-decoration: none;
+  font-family: "Quantico", sans-serif;
+  display: block;
+  margin: 4px auto;
+}
+
+li:hover {
+  color: rgba(212, 255, 27, 1);
+  text-shadow: 3px 3px 6px white;
+}
+
+button {
+  margin: 34px auto;
+  padding: 10px 40px;
+  background-color: rgba(70, 70, 70, 1);
+  color: white;
+}
+
+button:hover {
+  transition-duration: 0.5s;
+  color: #000;
+  background-color: rgba(188, 188, 188, 1);
+  border: 4px solid black;
+  border-top: solid grey;
+  border-left: solid grey;
+  box-shadow: 4px 4px 8px white;
+}
