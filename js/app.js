@@ -379,70 +379,64 @@ let levelZed = {
                           ],
                           nextLevels: [
                             {
-                              p: "",
-                              options: ["", "", ""],
+                              p:
+                                "It takes you guys twenty minutes to get to the containment facility. You wait until some of the gaurds leave to pick up more prisoners. You and Sam are finally ready to make your move. You bolt over the fence and hide behind crates. Sam sees his friend in a cellar with a few other guys. The plan is you distract the gaurds and he will break his friend out. When you get the signal, you'll be able to make an escape. Rendezvous at 13th street and 4th ave. You step out in the middle of the facility and taunt the guards. They race towards you and that's when things get ugly-- for them! They don't see it coming. Lightning fast kicks and punches put a few of them out of commission. Some of them approach you with guns in their hands. They shoot, but you can anticipate their movements by reading their body language. You end up behind them. One chop to the back of the head kocks out three of them. You hear Sam whistle, and you bolt out of there!",
+                              options: ["...", "", ""],
                               nextLevels: [
                                 {
                                   p:
-                                    "It takes you guys twenty minutes to get to the containment facility. You wait until some of the gaurds leave to pick up more prisoners. You and Sam are finally ready to make your move. You bolt over the fence and hide behind crates. Sam sees his friend in a cellar with a few other guys. The plan is you distract the gaurds and he will break his friend out. When you get the signal, you'll be able to make an escape. Rendezvous at 13th street and 4th ave. You step out in the middle of the facility and taunt the guards. They race towards you and that's when things get ugly-- for them! They don't see it coming. Lightning fast kicks and punches put a few of them out of commission. Some of them approach you with guns in their hands. They shoot, but you can anticipate their movements by reading their body language. You end up behind them. One chop to the back of the head kocks out three of them. You hear Sam whistle, and you bolt out of there!",
-                                  options: ["...", "", ""],
+                                    "You meet up at the rendezvous point, and Sam introduces you to his friend, Shepard. Shepard thanks you for aiding in his escape. He leads you and Sam to his bunker. Shepard says that he has created something ingenious! He pulls out a carbon fiber briefcase. When he opens it, there are five syringes. They all contain the same glowing-green liquid. He claims that this is the ultimate weapon against P.U.Gs. He said he bioengineered this himself, and it will make you stronger. You hesitate. Shepard injects himself first to show you he's serious.",
+                                  options: [
+                                    "Decline the injection!<br> Did he not just see how much ass you kicked back there?",
+                                    "Take the shot! What've you got to lose?<br> Hopefully whatever's in that syringe is compatable with your markings..",
+                                    ""
+                                  ],
                                   nextLevels: [
                                     {
                                       p:
-                                        "You meet up at the rendezvous point, and Sam introduces you to his friend, Shepard. Shepard thanks you for aiding in his escape. He leads you and Sam to his bunker. Shepard says that he has created something ingenious! He pulls out a carbon fiber briefcase. When he opens it, there are five syringes. They all contain the same glowing-green liquid. He claims that this is the ultimate weapon against P.U.Gs. He said he bioengineered this himself, and it will make you stronger. You hesitate. Shepard injects himself first to show you he's serious.",
-                                      options: [
-                                        "Decline the injection!<br> Did he not just see how much ass you kicked back there?",
-                                        "Take the shot! What've you got to lose?<br> Hopefully whatever's in that syringe is compatable with your markings..",
-                                        ""
-                                      ],
+                                        "You respectfully decline. Sam doesn't take the risk, either. After some preparation, you all head out. You take Shepard's helicopter straight to P.U.Gs HQ. They have a droid gaurding the building. It detects your team and immediately activates combat mode. Missiles are fired at all of you",
+                                      options: ["...", "", ""],
                                       nextLevels: [
                                         {
                                           p:
-                                            "You respectfully decline. Sam doesn't take the risk, either. After some preparation, you all head out. You take Shepard's helicopter straight to P.U.Gs HQ. They have a droid gaurding the building. It detects your team and immediately activates combat mode. Missiles are fired at all of you",
+                                            "You leap in the air dodging the missiles! You land right on the droid's shoulders and start tearing at it's jetpack. Shepard raises one arm and the droid quickly starts falling to the ground. You had to jump off last second to avoid crashing. Shepard raises his other arm and the droid gets crushed into a ball of metal and scraps. You all head into the building.",
                                           options: ["...", "", ""],
                                           nextLevels: [
                                             {
                                               p:
-                                                "You leap in the air dodging the missiles! You land right on the droid's shoulders and start tearing at it's jetpack. Shepard raises one arm and the droid quickly starts falling to the ground. You had to jump off last second to avoid crashing. Shepard raises his other arm and the droid gets crushed into a ball of metal and scraps. You all head into the building.",
+                                                "You guys fight your way to the Founding Family's room, and that's when the real battle begins. They're very strong. Shepard seems to be holding his own. Sam is putting up a good fight, too. You end up fighting the Founding Father, Bob. Bob moves very quickly, and he has a lot of ammunition...<br> The fight lasts for hours, but when you finally rise victorious, you see Shepard sulking over Sam's body... He's not moving. Shepard says he jumped in the way when the Founding Mother sent a deadly attack at him. Sam saved Shepard's life...",
                                               options: ["...", "", ""],
                                               nextLevels: [
                                                 {
                                                   p:
-                                                    "You guys fight your way to the Founding Family's room, and that's when the real battle begins. They're very strong. Shepard seems to be holding his own. Sam is putting up a good fight, too. You end up fighting the Founding Father, Bob. Bob moves very quickly, and he has a lot of ammunition...<br> The fight lasts for hours, but when you finally rise victorious, you see Shepard sulking over Sam's body... He's not moving. Shepard says he jumped in the way when the Founding Mother sent a deadly attack at him. Sam saved Shepard's life...",
-                                                  options: ["...", "", ""],
-                                                  nextLevels: [
-                                                    {
-                                                      p:
-                                                        "You have done something amazing today. Trust. You've stopped the horrible P.U.Gs in its tracks, and saved the world from these tyrants. It's unfortunate that your roommate wasn't able to make it as far as you did. At least you've got a new friend in Shepard! <br> Hero! You've gotten to the end of Concipilo! The story with multiple endings! If you'd like to find out if there are any better endings, feel free to try again! Hopefully, the odds will be in your favor.",
-                                                      options: ["", "", ""]
-                                                    }
-                                                  ]
+                                                    "You have done something amazing today. Trust. You've stopped the horrible P.U.Gs in its tracks, and saved the world from these tyrants. It's unfortunate that your roommate wasn't able to make it as far as you did. At least you've got a new friend in Shepard! <br> Hero! You've gotten to the end of Concipilo! The story with multiple endings! If you'd like to find out if there are any better endings, feel free to try again! Hopefully, the odds will be in your favor.",
+                                                  options: ["", "", ""]
                                                 }
                                               ]
                                             }
                                           ]
-                                        },
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      p:
+                                        "You take the shot in your shoulder. Sam doesn't join you, he think it's too risky for him. After some preperation, you guys take Shepard's helicopter to P.U.Gs HQ. They have a droid gaurding the building. It detects your team and immediately activates combat mode. Missiles are fired at all of you...",
+                                      options: ["...", "", ""],
+                                      nextLevels: [
                                         {
                                           p:
-                                            "You take the shot in your shoulder. Sam doesn't join you, he think it's too risky for him. After some preperation, you guys take Shepard's helicopter to P.U.Gs HQ. They have a droid gaurding the building. It detects your team and immediately activates combat mode. Missiles are fired at all of you...",
+                                            "You bring your arms together and all the missiles explode before they get close to the group. That shot from Shepard has given you telekinetic powers. It's time to show this droid who's boss. You leap into the air and hit the droid with a devistating blow. Combinding your massive strength with Telekinesis enables you to send a a wave of power that slices the droid in half. Shepard raises his arms and the droid crumbles into a big ball of metal, then falls to the ground. It's time to head inside of the building.",
                                           options: ["...", "", ""],
                                           nextLevels: [
                                             {
                                               p:
-                                                "You bring your arms together and all the missiles explode before they get close to the group. That shot from Shepard has given you telekinetic powers. It's time to show this droid who's boss. You leap into the air and hit the droid with a devistating blow. Combinding your massive strength with Telekinesis enables you to send a a wave of power that slices the droid in half. Shepard raises his arms and the droid crumbles into a big ball of metal, then falls to the ground. It's time to head inside of the building.",
+                                                "You guys fight your way to the Founding Family's room. The real battle begins. They're very strong. Shepard seems to be holding his own. Sam is putting up a good fight, too. You end up fighting the Founding Father, Bob. Bob moves very quickly, and he's wearing an arsenal of weapons. He'd be a match if any of his attacks can get to you. You swiftly move behind him and deliver a deadly blow with his own sword. You look to your left and the Founding Mother fires a nasty projectile with an electric charge at Shepard while he's not looking. Sam jumps in front of Shepard to take the blow. You don't let that projectile hit either of your group. You use your telekinetic powers to curve the projectile, and it goes straight into the Founding Mother... <br><br>  The three of you stand victorious.",
                                               options: ["...", "", ""],
                                               nextLevels: [
                                                 {
                                                   p:
-                                                    "You guys fight your way to the Founding Family's room. The real battle begins. They're very strong. Shepard seems to be holding his own. Sam is putting up a good fight, too. You end up fighting the Founding Father, Bob. Bob moves very quickly, and he's wearing an arsenal of weapons. He'd be a match if any of his attacks can get to you. You swiftly move behind him and deliver a deadly blow with his own sword. You look to your left and the Founding Mother fires a nasty projectile with an electric charge at Shepard while he's not looking. Sam jumps in front of Shepard to take the blow. You don't let that projectile hit either of your group. You use your telekinetic powers to curve the projectile, and it goes straight into the Founding Mother... <br><br>  The three of you stand victorious.",
-                                                  options: ["...", "", ""],
-                                                  nextLevels: [
-                                                    {
-                                                      p:
-                                                        "BRAVO! You've really outdone yourself. This is the Best ending to the story of Concipilo. You've put an end to the P.U.Gs organization, and their family is no longer a threat to the world. All your companions are alive! And so are you. If you'd like to see some of the other storylines, feel free to play again. May the odds be ever in your favor!<br><br> ~Fin~",
-                                                      options: ["", "", ""]
-                                                    }
-                                                  ]
+                                                    "BRAVO! You've really outdone yourself. This is the Best ending to the story of Concipilo. You've put an end to the P.U.Gs organization, and their family is no longer a threat to the world. All your companions are alive! And so are you. If you'd like to see some of the other storylines, feel free to play again. May the odds be ever in your favor!<br><br> ~Fin~",
+                                                  options: ["", "", ""]
                                                 }
                                               ]
                                             }
