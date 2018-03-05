@@ -1,9 +1,7 @@
 Landing page {
 title:
 
-Hey there! Yes, you! Mind if I get a little more information about you?
-
-Are you brave? Do you want to go on an adventure?
+Hey there! Yes, you! Mind if I get a little more information about you? Are you brave? Do you want to go on an adventure?
 
 
 Yes) they'll get a "Good to hear! I like you, kid, you've got moxie!"
@@ -49,14 +47,12 @@ What would you do?
   </ul>
 
         LEVEL 2 A:
-        <p> You pack a small bag of supplies. You've got some First Aid, snacks, water bottles, batteries and a flashlight. Sam packed supplies as well. You both are now ready to move.
+        <p> You pack a small bag of supplies. You've got some First Aid, snacks, water bottles, batteries and a flashlight. Sam packed useful supplies as well. His packing skills were too advanced, and you were not able to see what he packed. You both are now ready to move.
 
         What do you do?
         </p>
         <ul>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>Leave with Sam and head to his car.</li>
         </ul>
 
 
@@ -81,7 +77,7 @@ What would you do?
 
    LEVEL ONE B:
   <p>
-    You run downstairs as fast as you can. You made good time! The group is <i>just</i> out of sight! You just remembered that your car is three avenues away, but the group is moving in the opposite direction. You hear sirens in the distance.
+    You run downstairs as fast as you can. You made good time! The group is just out of sight! You just remembered that your car is three avenues away, but the group is moving in the opposite direction. You hear sirens in the distance.
 
     What do you do?
   </p>
@@ -121,3 +117,26 @@ What would you do?
           <li>Confront these ruffians! They shouldn't be doing this!</li>
           <li>Move forward! The authorities can help subdue them.</li>
         </ul>
+
+        * In the plot where you leave sam with out waking him up, you meet him again in one of the storylines, but he is not an ally. He get’s hurt in the explosion, but survives. Finds a group
+
+Permanent Unification Goals(P.U.Gs)
+* In the plot where you join the group, if you run they hunt you, if you talk to them, they let you join . Their mission is to stop E.V.I.L., the a secret organization created by the Rubethschild family. A very wealthy family that controls most of the wealth in this world. E.V.I.L. is behind the events taking place. They are trying to overthrow every government system at once.
+
+ When you get the mark, you’ll be stronger, faster, and smarter. but your mark will be blue instead of red, which will confuse the group, since they’ve never seen this before- they turn on you.
+* IF SAM IS WITH YOU you have a strong ally(he gets the mark first, which is red), You both escape from the group. When sam gets news that his best friend Sheppard was locked up, you and Sam go break him out. (It can go wrong and you can end up “slumped”(permanently out of commission).
+* Injection + the mark turns you and sam into almost unstoppable forces, you are able to make the Rubethschild family submit, and shit down E.V.I.L)
+
+* IF SAM IS NOT WITH YOU you will be able to escape the group, but you will never find out about Sheppard and you won’t get the injection. You can still hunt down the Rubethschild family, but you might lose
+
+
+
+* Trip to the cabin goes haywire when a hitchhiker tries to take Sams car and kick you guys out. He has a knife.  1) If you have the taser a) use it, you win, and drive to the cabin END b) don’t use it and get out of the car, guy drives off and you guys are walking through the woods - this is how you have to survive.
+* 2) DON’T have a taser, a) get stabbed if you try to fight b) get kicked the car, walk through the woods, Have to give money up to a rag-tag group for them to let you and Sam leave
+
+
+* Meeting the authorities will have them either get you to 1) submit to the Rubethschild family by getting a nano-tracer injected in your arm 2) get locked up for declining to submit 3) get killed trying to escape(dart that puts you into a deep sleep you won’t wake up from. I
+                     If you’re with sam, you both can break out of prison with Sam’s friend, Sheppard, and you try to take down the head of Rubethschild. Learn about Sheppard- he was an MD who wasn’t satisfied, so he went and studied biological and chemical engineering, and got a PhD. In Sheppard’s bunker, he offers to give you and sam an injection. You have a choice to take it or turn down the offer. Sam takes it, because he trusts Sheppard. If you take it, the last scene of this will be winning, you’ll have Telekinesis abilities that awaken when you’re having the final battle
+
+
+RUNNING STORYLINE - if you’re locked up, when Sam comes to rescue Sheppard, He sees you and beats you up for leaving him to fall victim of the explosion.
