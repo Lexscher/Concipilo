@@ -1,10 +1,10 @@
 console.log("Linked!");
 let bop = document.body.querySelector("source");
-alert(
-  "Welcome! This is Concipilo, a text adventure game. Here, every dicision you make directly impacts the outcome."
-);
-let name = prompt("What is your name?");
-alert("Well, " + name + ", I hope you're ready for an adventure!");
+// alert(
+//   "Welcome! This is Concipilo, a text adventure game. Here, every dicision you make directly impacts the outcome."
+// );
+// let name = prompt("What is your name?");
+// alert("Well, " + name + ", I hope you're ready for an adventure!");
 // store all the levels and choices into a variable/ object
 // where the inner html for the p and li tags are different
 // for each index
@@ -470,7 +470,7 @@ let levelZed = {
 let currentLevel = levelZed;
 // click event listener ----> Access Next Level
 // change currentLevel to the next level down
-//mousover event listener to ul tags.
+// mousover event listener to ul tags.
 // mouseover function
 // highlight the option your mouse is on
 // change the css properties of said option
