@@ -7,7 +7,7 @@ I created a text adventure game, Concipilo. English was kinda one of my favorite
 I'll still be adding more to the story - I keep jotting down little notes when inspiration hits.
 
 Here's what the finished product looks like:
-![Concipilo screenshot](https://i.imgur.com/VgK74v3l.png)
+![Concipilo screenshot](https://i.imgur.com/VgK74v3.png)
 
 ---
 
