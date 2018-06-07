@@ -80,6 +80,7 @@ li {
   font-family: "Quantico", sans-serif;
   display: block;
   margin: 4px auto;
+  cursor: pointer;
 }
 
 li:hover {
@@ -92,6 +93,7 @@ button {
   padding: 10px 40px;
   background-color: rgba(70, 70, 70, 1);
   color: white;
+  cursor: pointer;
 }
 
 button:hover {
