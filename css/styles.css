@@ -4,7 +4,11 @@ body {
   background-size: cover;
   margin: 0 auto;
   font-family: "Bangers", cursive;
-  width: 100%;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 header {
@@ -15,6 +19,7 @@ header {
   display: block;
   padding: 15px;
   color: rgba(0, 225, 225, 1);
+  width: 98vw;
 }
 
 h1 {
@@ -28,11 +33,11 @@ footer {
   opacity: 0.9;
   height: 25;
   margin: 0 auto;
-  padding: 48px 35px;
+  padding: 12px 35px;
   position: absolute;
   bottom: 0;
   display: block;
-  width: 94%;
+  width: 94vw;
   border: 7px outset;
   border-color: #ff5555;
 }
@@ -40,7 +45,8 @@ footer {
 .mid {
   border-radius: 4px;
   height: 200px;
-  margin: 40px 200px;
+  width: 70vw;
+  margin: 40px auto;
   padding: 40px;
   background-color: rgba(85, 5, 5, 0.4);
   color: rgba(255, 255, 255, 1);
