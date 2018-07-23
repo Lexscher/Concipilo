@@ -266,7 +266,8 @@ let levelZed = {
                     "You guys follow the sound of sirens and before long you're stopped by soldiers. They make you get out of the car and escort you around the corner. That's when you see a huge amount of people lined up in rows. There's a woman standing on a podium with a bullhorn. She says that the world is ready for assimilation. And this is just the start of something amazing. She says that you have the choice to submit to the power of the Rubethschild family. The only way to do that is to get a nanotracer injected in your arm. As you move through the line, Sam expresses his discomfort with the tracer. He doesn't trust these people. Even if they've got a whole bunch of military with them. Time really flies, doesn't it? You're up! What's your next move?",
                   options: [
                     "Receive the injection! Their forces are way too powerful!",
-                    "Politefully decline!<br> They're crazy if they think you're going along with this bs."
+                    "Politefully decline!<br> They're crazy if they think you're going along with this bs.",
+                    ""
                   ],
                   nextLevels: [
                     {
