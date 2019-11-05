@@ -1,7 +1,5 @@
 # Hi all!
 
-This was one of my projects from unit 1.
-
 I created a text adventure game, Concipilo. English was kinda one of my favorite subjects while I was going to highschool, so I had a lot of fun with this one!
 
 I'll still be adding more to the story - I keep jotting down little notes when inspiration hits.
